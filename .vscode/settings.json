@@ -59,6 +59,7 @@
   "files.associations": {
     "*html": "html",
     "*njk": "html",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "ostream": "cpp"
   }
 }
